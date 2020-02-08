@@ -166,9 +166,6 @@ header p{
     grid-column: 2 / span 2;
     }
 
-
-
-
 }  /*End the media query*/
 
 @media screen and (prefers-reduced-motion: reduce){
